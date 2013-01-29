@@ -1,0 +1,15 @@
+
+h1 {
+	text-align : center;
+	color : firebrick;
+}
+
+div {
+	margin : 40px
+}
+
+div span {
+	display : block;
+	text-align : center;
+	font-family : monospace;
+}
